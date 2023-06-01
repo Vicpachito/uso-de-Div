@@ -1,0 +1,22 @@
+.container {
+  width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: green;
+  position:relative;
+}
+
+.container_2 {
+  width: 500px;
+  height: 200px;
+  background-color: blueviolet;
+  position:fixed; 
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: yellow;
+}
