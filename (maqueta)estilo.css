@@ -1,0 +1,30 @@
+.container {
+  width: 400px;
+  height: 300px;
+  border: 2px solid black;
+}
+
+.top-section {
+  height: 80px;
+  background-color: #FFC0CB; 
+}
+
+.left-section {
+  width: 100px;
+  height: 140px;
+  background-color: #FFFF00; 
+  float: left;
+}
+
+.right-section {
+  width: 100px;
+  height: 140px;
+  background-color: #00FF00; 
+  float: right;
+}
+
+.bottom-section {
+  height: 80px;
+  background-color: #ADD8E6; 
+  clear: both;
+}
